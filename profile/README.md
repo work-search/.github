@@ -14,7 +14,7 @@ Organisation open source dédiée à la recherche automatisée et à la gestion 
 - **Tech** : Python  
 - **Licence** : AGPL‑3.0  
 - **Dernière mise à jour** : 1er septembre 2025  
-- **Résumé** : Bot de scraping automatisé. Contact en cas de problème : `axel@athenox.dev`.
+- **Résumé** : Bot de scraping automatisé. Contact en cas de problème : [`axel@athenox.dev`](mailto:axel@athenox.dev).
 
 ### [API_article](https://github.com/work-search/API_article)
 - **Tech** : JavaScript (Node.js)  
