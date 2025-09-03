@@ -6,20 +6,20 @@ Organisation open source dédiée à la recherche automatisée et à la gestion 
 
 ### [moteur‑recherche‑lumina](https://github.com/work-search/moteur-recherche-lumina)
 - **Tech** : HTML, Python  
-- **Licence** : MIT  
-- **Dernière mise à jour** : 1er septembre 2025  
+- **Licence** : AGPL‑3.0
+- **Statut** : Publique  
 - **Résumé** : Moteur de recherche utilisant la db de lumibot.
 
 ### [lumibot](https://github.com/work-search/lumibot)
 - **Tech** : Python  
 - **Licence** : AGPL‑3.0  
-- **Dernière mise à jour** : 1er septembre 2025  
+- **Statut** : Publique  
 - **Résumé** : Bot de scraping automatisé. Contact en cas de problème : [`axel@athenox.dev`](mailto:axel@athenox.dev).
 
 ### [API_article](https://github.com/work-search/API_article)
 - **Tech** : JavaScript (Node.js)  
 - **Licence** : MIT  
-- **Dernière mise à jour** : 27 août 2025  
+- **Statut** : Archivé
 - **Résumé** : API REST pour le scraping d'article.
 
 ## Contribuer
