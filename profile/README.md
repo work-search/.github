@@ -30,7 +30,7 @@ Organisation open source dédiée à la recherche automatisée et à la gestion 
 
 ## Licences
 
-- [`moteur‑recherche‑lumina`](https://github.com/work-search/moteur-recherche-lumina) : MIT  
+- [`moteur‑recherche‑lumina`](https://github.com/work-search/moteur-recherche-lumina) : AGPL‑3.0
 - [`API_article`](https://github.com/work-search/API_article) : MIT  
 - [`lumibot`](https://github.com/work-search/lumibot) : AGPL‑3.0  
 
