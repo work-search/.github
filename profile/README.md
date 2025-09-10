@@ -1,6 +1,7 @@
 # lumina (ex work‑search)
 
 Organisation open source dédiée à la recherche automatisée et à la gestion de contenus.
+discord: https://discord.gg/QkwWDKeMjF
 
 ## Repositories
 
