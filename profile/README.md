@@ -15,7 +15,7 @@ discord: https://discord.gg/QkwWDKeMjF
 - **Tech** : Python  
 - **Licence** : AGPL‑3.0  
 - **Statut** : Publique  
-- **Résumé** : Bot de scraping automatisé. Contact en cas de problème : [`axel@athenox.dev`](mailto:axel@athenox.dev).
+- **Résumé** : Bot de scraping automatisé. Contact en cas de problème : [`axel@ruikdev.me`](mailto:axel@ruikdev.me).
 
 ### [API_article](https://github.com/work-search/API_article)
 - **Tech** : JavaScript (Node.js)  
@@ -37,4 +37,4 @@ discord: https://discord.gg/QkwWDKeMjF
 
 ## Contact
 
-Pour toute question ou problème : [`axel@athenox.dev`](mailto:axel@athenox.dev)
+Pour toute question ou problème : [`axel@ruikdev.me`](mailto:axel@ruikdev.me)
